@@ -5,7 +5,13 @@ The final idea is that you find what you are looking for.
 Will start with a kmean basic clustering and then we will see what else I can add.
 
 ## Clustering
-You can find clustering projects on this area.
+I add a KMean clustering model made with scikit-learn... It clusters customers.
+
+## Keras (MSE)
+I added a model using keras that predicts car prices based on the car features and the company that made it
+
+## Decision Trees
+I added a model that predicts the quality of a wine based on features such as citric acid and residual sugar
 
 ## Binary Classification
 In process
