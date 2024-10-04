@@ -21,6 +21,8 @@ Added a model that predicts california house prices
 ## Binary Classification
 #### Scikit-Learn
 Added a simple model to try to predict and classify smokers and non-smokers
+#### PySpark
+Added model that predicts heart disease
 
 ## NLP
 #### Tensorflow-keras
