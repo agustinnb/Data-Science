@@ -6,7 +6,10 @@ Will start with a kmean basic clustering and then we will see what else I can ad
 
 ## Clustering
 #### Scikit-Learn
-I add a KMean clustering model made with scikit-learn... It clusters customers.
+KMean clustering models: 
+** Customers Clustering
+** Business School Clustering
+
 #### PySpark
 Added a model that clusters Spotify Tracks and recommend artists
 
