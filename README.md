@@ -36,6 +36,7 @@ Added model that predicts heart disease
 ## NLP
 #### Tensorflow-keras
 Added a model that classify products between four categories by their description
+Added model that catalog mails between spam and ham
 
 ## RNNs
 #### Tensorflow-keras
