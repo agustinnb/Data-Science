@@ -17,21 +17,21 @@ Added a model that clusters Spotify Tracks and recommend artists
 ## Decision Trees
 #### Scikit-Learn
 ##### Qualification
-I added a model that predicts the quality of a wine based on features such as citric acid and residual sugar
+** Added a model that predicts the quality of a wine based on features such as citric acid and residual sugar
 ##### Forecasting
-Added a model that predicts next price variation of XAU-USD (By Day)
+** Added a model that predicts next price variation of XAU-USD (By Day)
 
 ## Linear Regression
 #### PySpark
-Added a model that predicts data scientist salaries
+** Added a model that predicts data scientist salaries
 #### Scikit-Learn
-Added a model that predicts california house prices
+** Added a model that predicts california house prices
 
 ## Binary Classification
 #### Scikit-Learn
-Added a simple model to try to predict and classify smokers and non-smokers
+** Added a simple model to try to predict and classify smokers and non-smokers
 #### PySpark
-Added model that predicts heart disease
+** Added model that predicts heart disease
 
 ## NLP
 #### Tensorflow-keras
@@ -42,6 +42,7 @@ Added model that predicts heart disease
 ## RNNs
 #### Tensorflow-keras
 ##### Image Recognition
-Added a model that recognize ducks
+** Added a model that recognize ducks
 ##### MSE
-I added a model using keras that predicts car prices based on the car features and the company that made it
+** Added a model using keras that predicts Car Prices based on the car features and the company that made it
+** Added a model using keras that predicts the Food Order Total Cost by day of the week and hour ordered.
