@@ -20,6 +20,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model that predicts the quality of a wine based on features such as citric acid and residual sugar
 ##### Forecasting
 ** Added a model that predicts next price variation of XAU-USD (By Day)
+** Added Mumbai Rain Forecasting model
 
 ## Linear Regression
 #### PySpark
