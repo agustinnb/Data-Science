@@ -44,6 +44,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 #### Tensorflow-keras
 ##### Image Recognition
 ** Added a model that recognize ducks
+** Added a model that recognize Types of haircuts
 ##### MSE
 ** Added a model using keras that predicts Car Prices based on the car features and the company that made it
 ** Added a model using keras that predicts the Food Order Total Cost by day of the week and hour ordered.
