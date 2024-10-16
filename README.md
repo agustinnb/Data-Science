@@ -39,6 +39,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model that classify products between four categories by their description
 ** Added model that catalog mails between spam and ham
 ** Added a model that try to guess a movie review rate based on the review text of it.
+** Added model that predicts Airline's review rates and recommendation
 
 ## RNNs
 #### Tensorflow-keras
