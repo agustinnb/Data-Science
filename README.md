@@ -9,6 +9,7 @@ Will start with a kmean basic clustering and then we will see what else I can ad
 KMean clustering models: 
 ** Customers Clustering
 ** Business School Clustering
+** IMDB Best 1000 movies Clustering
 
 #### PySpark
 Added a model that clusters Spotify Tracks and recommend artists
