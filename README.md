@@ -22,6 +22,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ##### Forecasting
 ** Added a model that predicts next price variation of XAU-USD (By Day)
 ** Added Mumbai Rain Forecasting model
+** Added model that predict California Crime for the next year 
 
 ## Linear Regression
 #### PySpark
