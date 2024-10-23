@@ -45,6 +45,8 @@ Added a model that clusters Spotify Tracks and recommend artists
 
 ## RNNs
 #### Tensorflow-keras
+##### Binary Classification
+** Added model that predict diabetes condition
 ##### Image Recognition
 ** Added a model that recognize ducks
 ** Added a model that recognize Types of haircuts
