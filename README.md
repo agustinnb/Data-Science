@@ -35,8 +35,11 @@ Added a model that clusters Spotify Tracks and recommend artists
 ## Binary Classification
 #### Scikit-Learn
 ** Added a simple model to try to predict and classify smokers and non-smokers
+** Added various models to try to predict Titanic Survival
 #### PySpark
 ** Added model that predicts heart disease
+#### LGBM-XBoost
+** Added various models to try to predict loan payment
 
 ## NLP
 #### Tensorflow-keras
