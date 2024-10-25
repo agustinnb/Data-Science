@@ -15,7 +15,7 @@ KMean clustering models:
 Added a model that clusters Spotify Tracks and recommend artists
 
 
-## Decision Trees
+## Classification
 #### Scikit-Learn
 ##### Qualification
 ** Added a model that predicts the quality of a wine based on features such as citric acid and residual sugar
@@ -23,6 +23,8 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model that predicts next price variation of XAU-USD (By Day)
 ** Added Mumbai Rain Forecasting model
 ** Added model that predict California Crime for the next year 
+#### XGBoost
+** Added a model that try to determine the Quality of Life by Evaluation Health
 
 ## Linear Regression
 #### PySpark
