@@ -31,6 +31,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model that predicts data scientist salaries
 #### Scikit-Learn
 ** Added a model that predicts california house prices
+** Added a model that predicts data scientist salaries (LGBMRegressor)
 
 ## Binary Classification
 #### Scikit-Learn
