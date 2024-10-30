@@ -41,6 +41,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added model that predicts heart disease
 #### LGBM-XBoost
 ** Added various models to try to predict loan payment
+** Added XGBClassifier model to predict loan approval
 
 ## NLP
 #### Tensorflow-keras
