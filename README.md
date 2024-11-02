@@ -45,6 +45,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 #### LGBM-XBoost
 ** Added various models to try to predict loan payment
 ** Added XGBClassifier model to predict loan approval
+** Added XGBClassifier for fraud transaction detection
 
 ## NLP
 #### Tensorflow-keras
