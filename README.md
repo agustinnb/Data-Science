@@ -42,6 +42,7 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added various models to try to predict Titanic Survival
 #### PySpark
 ** Added model that predicts heart disease
+** Added model to predicts strokes
 #### LGBM-XBoost
 ** Added various models to try to predict loan payment
 ** Added XGBClassifier model to predict loan approval
