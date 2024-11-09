@@ -34,7 +34,8 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model that predicts data scientist salaries (LGBMRegressor)
 #### LGBM-XGBoost
 ** Added a model that predicts 2025 Instagram Users by Country
-
+#### Pytorch
+** Added Customer Satisfaction Pytorch Model
 
 ## Binary Classification
 #### Scikit-Learn
@@ -66,3 +67,8 @@ Added a model that clusters Spotify Tracks and recommend artists
 ** Added a model using keras that predicts Car Prices based on the car features and the company that made it
 ** Added a model using keras that predicts the Food Order Total Cost by day of the week and hour ordered.
 ** Added a model using keras that predicts students scores
+
+
+## EDA
+** Added Suicide Stadistics EDA
+** Added Super Market Sales EDA
